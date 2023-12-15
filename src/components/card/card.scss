@@ -1,0 +1,29 @@
+.info {
+    .type {
+        color: #6240e8;
+        font-family: Inter;
+        font-size: 15.125px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px; /* 158.678% */
+        text-transform: uppercase;
+    }
+    .text {
+        font-family: Inter;
+        font-size: 17px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26.4px;
+        width: 80%;
+        color: #351F65;
+    }
+}
+.img {
+    display: flex;
+    flex-direction:column; 
+    img {
+        object-fit: cover;
+        height: 12rem;
+        width: 100%;
+    }
+}
