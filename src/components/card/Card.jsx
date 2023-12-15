@@ -2,7 +2,7 @@ import React from "react";
 import Card from "@mui/material/Card";
 import "./card.scss";
 import ArrowCircleRightRoundedIcon from "@mui/icons-material/ArrowCircleRightRounded"; 
-import CardImage from "../../public/Home/card1.png";
+import CardImage from "../../public/Images/Home/card1.png";
 
 const CardContent = ({item}) => {
 

@@ -3,23 +3,23 @@ import Header from "../../components/Header/Header";
 import "./Home.scss";
 import { Button, Card, Container, Grid } from "@mui/material";
 import CardContent from "../../components/card/Card";
-import card1 from "../../public/Home/card1.png";
-import card2 from "../../public/Home/card2.png";
-import card3 from "../../public/Home/card3.png";
+import card1 from "../../public/Images/Home/card1.png";
+import card2 from "../../public/Images/Home/card2.png";
+import card3 from "../../public/Images/Home/card3.png";
 
-import doctor1 from "../../public/Home/doctr1.jpg";
-import doctor2 from "../../public/Home/doctr2.jpg";
-import doctor3 from "../../public/Home/doctr3.jpg";
+import doctor1 from "../../public/Images/Home/doctr1.jpg";
+import doctor2 from "../../public/Images/Home/doctr2.jpg";
+import doctor3 from "../../public/Images/Home/doctr3.jpg";
 
 //awards
-import award1 from "../../public/Awards/award1.jpg";
-import award2 from "../../public/Awards/award2.jpg";
-import award3 from "../../public/Awards/award3.png";
-import award4 from "../../public/Awards/award4.png";
-import award5 from "../../public/Awards/award5.jpg";
-import award6 from "../../public/Awards/award6.png";
-import award7 from "../../public/Awards/award7.jpg";
-import award8 from "../../public/Awards/award7.jpg";
+import award1 from "../../public/Images/Awards/award1.jpg";
+import award2 from "../../public/Images/Awards/award2.jpg";
+import award3 from "../../public/Images/Awards/award3.png";
+import award4 from "../../public/Images/Awards/award4.png";
+import award5 from "../../public/Images/Awards/award5.jpg";
+import award6 from "../../public/Images/Awards/award6.png";
+import award7 from "../../public/Images/Awards/award7.jpg";
+import award8 from "../../public/Images/Awards/award7.jpg";
 
 //Social media icons
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
@@ -28,17 +28,11 @@ import TwitterIcon from "@mui/icons-material/Twitter";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import YouTubeIcon from "@mui/icons-material/YouTube";
 
-//banners
-import banner1 from "../../public/banners/banner1.png";
-import banner2 from "../../public/banners/banner2.png";
-import banner3 from "../../public/banners/banner3.png";
-import banner4 from "../../public/banners/banner4.png";
-
 //connect
-import appStore from "../../public/Home/app-store-badge.png.png";
-import playStore from "../../public/Home/google-play-badge.png.png";
+import appStore from "../../public/Images/Home/app-store-badge.png.png";
+import playStore from "../../public/Images/Home/google-play-badge.png.png";
 
-import HomepageImg from "../../public/Home/Link.png";
+import HomepageImg from "../../public/Images/Home/Link.png";
 import Logo from "../../components/Logo/Logo";
 
 const facility = [

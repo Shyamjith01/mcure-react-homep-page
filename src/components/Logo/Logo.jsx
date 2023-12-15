@@ -1,7 +1,7 @@
 import { Typography } from "@mui/material";
 import React from "react";
 import "./logo.scss"
-import logoLine from "../../public/Home/logo-line.svg";
+import logoLine from "../../public/Images/Home/logo-line.svg";
 
 const Logo = () => {
   return (
